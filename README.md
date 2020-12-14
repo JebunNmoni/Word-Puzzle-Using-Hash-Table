@@ -2,7 +2,7 @@
 
 We have a dictionary.txt that contains 109616 words in it.
 
-User will give two integer inputs `m' and `n'. That creates a m by n grid containing random letters.
+User will give two integer inputs `m` and `n`. That creates a m by n grid containing random letters.
 
 The program will check if there is any word matching from the dictionary. The words in the grid can be formed horizontally, diagonally or vertically.
 
