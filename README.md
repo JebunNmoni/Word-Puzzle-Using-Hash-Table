@@ -1,7 +1,28 @@
-# Word-Puzzle
-Word Puzzle with Java
+# Word Puzzle with Java
 
+We have a dictionary.txt that contains 109616 words in it.
 
+User will give two integer inputs `m' and `n'. That creates a m by n grid containing random letters.
+
+The program will check if there is any word matching from the dictionary. The words in the grid can be formed horizontally, diagonally or vertically.
+
+# Example
+
+Use can input m = 3, n = 4. Then some grid like the followin will be created.
+
+| r | d | y | l |
+
+| a | y | q | c | 
+
+| h | v | o | j | 
+
+Now, the algorithm will find all the words from the dictionary.txt that matches with any of the words in the grid. In this case the matched words are,
+
+{a, ay, ah, ad, yr, co, cl, ha, va}
+
+{a, ay, ah, ad, yr, co, cl, ha, va} and in addition {rd, rah}
+
+This means `rd' and `rah' is not in the dictionary but it is there as a part of other words.
 
 
 # Sample Output
