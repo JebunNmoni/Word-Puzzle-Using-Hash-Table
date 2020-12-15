@@ -10,12 +10,6 @@ package wordPuzzle;
 //bool contains( x )     --> Return true if x is present
 //void makeEmpty( )      --> Remove all items
 
-
-/**
-* Probing table implementation of hash tables.
-* Note that all "matching" is based on the equals method.
-* @author Mark Allen Weiss
-*/
 public class QuadraticProbingHashTable<AnyType>
 {
  /**
