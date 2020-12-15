@@ -8,7 +8,7 @@ The program will check if there is any word matching from the dictionary. The wo
 
 # Example
 
-Use can input `m = 3`, `n = 4`. Then some grid like the followin will be created.
+Use can input `m = 3`, `n = 4`. Then some grid like the following will be created.
 
 `| r | d | y | l |`
 
