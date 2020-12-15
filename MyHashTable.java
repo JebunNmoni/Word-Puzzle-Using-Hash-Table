@@ -11,11 +11,6 @@ package wordPuzzle;
 //bool contains( x )     --> Return true if x is present
 //void doClear( )      --> Remove all items
 
-/**
- * Probing table implementation of hash tables. Note that all "matching" is
- * based on the equals method.
- * 
-
 public class MyHashTable<AnyType> {
 	/**
 	 * Construct the hash table.
