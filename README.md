@@ -1,6 +1,6 @@
 # Word Puzzle with Java
 
-We have a dictionary.txt that contains 109616 words in it.
+We have a `dictionary.txt` that contains `109616` words in it.
 
 User will give two integer inputs `m` and `n`. That creates a `m` by `n` grid containing random letters.
 
